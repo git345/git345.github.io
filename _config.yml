@@ -1,3 +1,5 @@
 name: Hank Quinlan, Horrible Cop
     降价： kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-cayman
